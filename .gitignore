@@ -198,3 +198,4 @@ dmypy.json
 venv/
 
 setting.*
+.DS_Store
