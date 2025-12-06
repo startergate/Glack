@@ -4,5 +4,5 @@ chardet==3.0.4
 idna==2.8
 requests==2.32.4
 slacker==0.13.0
-urllib3==2.5.0
+urllib3==2.6.0
 websockets==8.1
